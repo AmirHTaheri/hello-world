@@ -1,0 +1,36 @@
+﻿body {
+    background-color: lightgray;
+}
+h1 {
+    color: blue;
+    font-style: italic;
+}
+td {
+    padding: 10px;
+}
+.navigationBar {
+    background-color: blue;
+}
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: white;
+    
+}
+.navigationLink {
+    color: white;
+    font-weight: bold;
+    text-decoration: white;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    background-color: white;
+    height: 100vh;
+}
+
+#Content {
+    padding: 10px;
+    margin-left: 10px;
+}
